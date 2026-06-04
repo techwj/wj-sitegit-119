@@ -1,0 +1,88 @@
+# Validation Report - moving-packing-tips
+
+Generated: 2026-06-04T11:35:21.734908
+
+## Passed
+
+- ✓ Required file exists: privacy.html
+- ✓ Required file exists: cookie-policy.html
+- ✓ Required file exists: terms.html
+- ✓ Required file exists: ad-policy.html
+- ✓ Required file exists: contact.html
+- ✓ Required file exists: about.html
+- ✓ Required file exists: dmca.html
+- ✓ Required file exists: accessibility.html
+- ✓ Suggested file exists: data-request.html
+- ✓ Suggested file exists: do-not-sell.html
+- ✓ Suggested file exists: third-party-disclosure.html
+- ✓ Suggested file exists: disclaimer.html
+- ✓ Suggested file exists: external-link-policy.html
+- ✓ Suggested file exists: content-policy.html
+- ✓ Suggested file exists: security-policy.html
+- ✓ Suggested file exists: children-privacy.html
+- ✓ Suggested file exists: refund-policy.html
+- ✓ Suggested file exists: faq.html
+- ✓ Suggested file exists: press-kit.html
+- ✓ Suggested file exists: feedback.html
+- ✓ Suggested file exists: code-of-conduct.html
+- ✓ Article word count OK: The Ultimate Guide to Beginner Moving Packing Tips
+- ✓ Article word count OK: Beginner Moving Packing Tips: Everything You Need to Know
+- ✓ Article word count OK: Understanding Beginner Moving Packing Tips
+- ✓ Article word count OK: Beginner Moving Packing Tips Tips and Best Practices
+- ✓ Article word count OK: The History of Beginner Moving Packing Tips
+- ✓ Article word count OK: Beginner Moving Packing Tips in 2026: Current Trends
+- ✓ Article word count OK: Future of Beginner Moving Packing Tips
+- ✓ Article word count OK: Common Mistakes in Beginner Moving Packing Tips
+- ✓ Article word count OK: Beginner Moving Packing Tips for Beginners
+- ✓ Article word count OK: Advanced Beginner Moving Packing Tips Techniques
+- ✓ Article word count OK: The Ultimate Guide to Advanced Moving Packing Tips
+- ✓ Article word count OK: Advanced Moving Packing Tips: Everything You Need to Know
+- ✓ Article word count OK: Understanding Advanced Moving Packing Tips
+- ✓ Article word count OK: Advanced Moving Packing Tips Tips and Best Practices
+- ✓ Article word count OK: The History of Advanced Moving Packing Tips
+- ✓ Article word count OK: Advanced Moving Packing Tips in 2026: Current Trends
+- ✓ Article word count OK: Future of Advanced Moving Packing Tips
+- ✓ Article word count OK: Common Mistakes in Advanced Moving Packing Tips
+- ✓ Article word count OK: Advanced Moving Packing Tips for Beginners
+- ✓ Article word count OK: Advanced Advanced Moving Packing Tips Techniques
+- ✓ Article word count OK: The Ultimate Guide to Moving Packing Tips Tips
+- ✓ Article word count OK: Moving Packing Tips Tips: Everything You Need to Know
+- ✓ Article word count OK: Understanding Moving Packing Tips Tips
+- ✓ Article word count OK: Moving Packing Tips Tips Tips and Best Practices
+- ✓ Article word count OK: The History of Moving Packing Tips Tips
+- ✓ Article word count OK: Moving Packing Tips Tips in 2026: Current Trends
+- ✓ Article word count OK: Future of Moving Packing Tips Tips
+- ✓ Article word count OK: Common Mistakes in Moving Packing Tips Tips
+- ✓ Article word count OK: Moving Packing Tips Tips for Beginners
+- ✓ Article word count OK: Advanced Moving Packing Tips Tips Techniques
+- ✓ Article word count OK: The Ultimate Guide to Moving Packing Tips History
+- ✓ Article word count OK: Moving Packing Tips History: Everything You Need to Know
+- ✓ Article word count OK: Understanding Moving Packing Tips History
+- ✓ Article word count OK: Moving Packing Tips History Tips and Best Practices
+- ✓ Article word count OK: The History of Moving Packing Tips History
+- ✓ Article word count OK: Moving Packing Tips History in 2026: Current Trends
+- ✓ Article word count OK: Future of Moving Packing Tips History
+- ✓ Article word count OK: Common Mistakes in Moving Packing Tips History
+- ✓ Article word count OK: Moving Packing Tips History for Beginners
+- ✓ Article word count OK: Advanced Moving Packing Tips History Techniques
+- ✓ Article word count OK: The Ultimate Guide to Trending Moving Packing Tips
+- ✓ Article word count OK: Trending Moving Packing Tips: Everything You Need to Know
+- ✓ Article word count OK: Understanding Trending Moving Packing Tips
+- ✓ Article word count OK: Trending Moving Packing Tips Tips and Best Practices
+- ✓ Article word count OK: The History of Trending Moving Packing Tips
+- ✓ Article word count OK: Trending Moving Packing Tips in 2026: Current Trends
+- ✓ Article word count OK: Future of Trending Moving Packing Tips
+- ✓ Article word count OK: Common Mistakes in Trending Moving Packing Tips
+- ✓ Article word count OK: Trending Moving Packing Tips for Beginners
+- ✓ Article word count OK: Advanced Trending Moving Packing Tips Techniques
+- ✓ Article word count OK: The Ultimate Guide to Moving Packing Tips Tutorials
+- ✓ Article word count OK: Moving Packing Tips Tutorials: Everything You Need to Know
+- ✓ Article word count OK: Understanding Moving Packing Tips Tutorials
+- ✓ Article word count OK: Moving Packing Tips Tutorials Tips and Best Practices
+- ✓ Article word count OK: The History of Moving Packing Tips Tutorials
+- ✓ Article word count OK: Moving Packing Tips Tutorials in 2026: Current Trends
+- ✓ Article word count OK: Future of Moving Packing Tips Tutorials
+- ✓ Article word count OK: Common Mistakes in Moving Packing Tips Tutorials
+- ✓ Article word count OK: Moving Packing Tips Tutorials for Beginners
+- ✓ Article word count OK: Advanced Moving Packing Tips Tutorials Techniques
+- ✓ Ad configuration validated

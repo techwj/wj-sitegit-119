@@ -1,0 +1,59 @@
+{
+  "siteId": "moving-packing-tips",
+  "generatedAt": "2026-06-04T11:35:21.735211",
+  "categories": [
+    "beginner-moving-packing-tips",
+    "advanced-moving-packing-tips",
+    "tips-moving-packing-tips",
+    "history-moving-packing-tips",
+    "trending-moving-packing-tips",
+    "tutorials-moving-packing-tips"
+  ],
+  "categoryData": [
+    {
+      "category_slug": "beginner-moving-packing-tips",
+      "category_name": "Beginner Moving Packing Tips"
+    },
+    {
+      "category_slug": "advanced-moving-packing-tips",
+      "category_name": "Advanced Moving Packing Tips"
+    },
+    {
+      "category_slug": "tips-moving-packing-tips",
+      "category_name": "Moving Packing Tips Tips"
+    },
+    {
+      "category_slug": "history-moving-packing-tips",
+      "category_name": "Moving Packing Tips History"
+    },
+    {
+      "category_slug": "trending-moving-packing-tips",
+      "category_name": "Trending Moving Packing Tips"
+    },
+    {
+      "category_slug": "tutorials-moving-packing-tips",
+      "category_name": "Moving Packing Tips Tutorials"
+    }
+  ],
+  "articleCount": 60,
+  "design": {
+    "site_id": "moving-packing-tips",
+    "color_scheme": {
+      "name": "Purple Dream",
+      "primary": "#6b21a8",
+      "secondary": "#a855f7",
+      "accent": "#d8b4fe",
+      "background": "#faf5ff",
+      "text": "#581c87",
+      "light": "#f3e8ff"
+    },
+    "font": {
+      "family": "Inter, system-ui, -apple-system, sans-serif",
+      "heading": "Inter",
+      "body": "Inter"
+    },
+    "layout": "topbar",
+    "site_title": "Moving Packing Tips Central",
+    "articles_per_row": 2
+  }
+}
